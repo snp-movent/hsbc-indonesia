@@ -1,3 +1,4 @@
+
 /* -------------------MAIN CSS STYLE------------------------------- 
 Project Name        : HSBC iGo
 Clent Company       : Movent
@@ -15,3 +16,4 @@ img { border: 0;padding: 0; -moz-box-shadow: 0;-webkit-box-shadow: 0;-ms-box-sha
 
 .wrapper{width: 100%; max-width: 600px; min-width: 280px; margin: 0 auto; background-color: #000;}
 .wrapper > div {width: 90%; margin: 0 auto;  background: red; }
+

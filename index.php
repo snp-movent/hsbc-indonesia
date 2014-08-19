@@ -12,6 +12,7 @@
 	<link rel="stylesheet" href="css/bootstrap.css">
 	<link rel="stylesheet" href="css/fontawesome/css/font-awesome.min.css">
 	<link rel="stylesheet" href="css/main.css">
+	<link rel="stylesheet" href="css/pages.css">
 
 	<title>HSBC iGo</title>
 </head>
@@ -20,9 +21,9 @@
 		<header>
 			
 		</header>
-		<div class="content">
-			
-		</div>
+		<section class="content">
+			<?php include_once($_GET['page'] . '.php') ?>
+		</section>
 		<footer>
 			
 		</footer>
