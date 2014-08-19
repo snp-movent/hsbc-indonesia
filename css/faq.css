@@ -1,0 +1,14 @@
+.snp-faq {color: #111010;}
+
+.snp-faq .section-title h3 {background: #2e302e; padding: 15px; color: #e8e7e7; margin-top: 0;}
+
+.snp-faq .section-content {padding: 0 15px;}
+
+.snp-faq .section-content .faq-question {padding: 5px 0 20px; border-bottom: 1px solid rgba(37,37,37, 0.4);}
+.snp-faq .section-content .faq-question:last-child {border-bottom: none;}
+.snp-faq .section-content .faq-question a {font-size: 14px; text-decoration: none;}
+.snp-faq .section-content .faq-question span {background-color: #ef2c2e; color: #fff; font-size: 12px; border: 1px solid; border-radius: 50%; padding: 1px 3px 0px; margin-right: 10px;}
+.snp-faq .section-content .faq-question h4 {margin: 15px 0;}
+.snp-faq .section-content .faq-question p {font-size: 13pt;}
+.snp-faq .section-content .faq-question ul {margin-left: 0;}
+.snp-faq .section-content .faq-question ul li {margin-bottom: 15px; font-size: 13pt; list-style-position: inside;}
