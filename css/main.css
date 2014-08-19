@@ -15,5 +15,5 @@ input[type=text]:focus { -moz-box-shadow: none!important;-webkit-box-shadow: non
 img { border: 0;padding: 0; -moz-box-shadow: 0;-webkit-box-shadow: 0;-ms-box-shadow: 0;box-shadow: 0}
 
 .wrapper{width: 100%; max-width: 600px; min-width: 280px; margin: 0 auto; background-color: #000;}
-.wrapper > div {width: 90%; margin: 0 auto;  background: red; }
+
 
