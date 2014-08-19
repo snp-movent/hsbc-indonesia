@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html>
 <head>
@@ -11,6 +10,7 @@
 
 	<link rel="stylesheet" href="css/bootstrap.css">
 	<link rel="stylesheet" href="css/fontawesome/css/font-awesome.min.css">
+	<link rel="stylesheet" href="css/font/font.css">
 	<link rel="stylesheet" href="css/main.css">
 	<link rel="stylesheet" href="css/pages.css">
 
@@ -22,7 +22,10 @@
 			
 		</header>
 		<section class="content">
-			<?php include_once($_GET['page'] . '.php') ?>
+			<?php 
+				$page = (isset($_GET['page'])) ? $_GET['page'] : "home";
+				include_once($page . '.php') 
+			?>
 		</section>
 		<footer>
 			
