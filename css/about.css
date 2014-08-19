@@ -1,0 +1,6 @@
+.snp-about  {color: #2e302e; }
+.snp-about .about-hold h3 {background: #2e302e; padding: 20px; color: #e8e7e7; margin-top: 0; font-weight: normal;padding-left: 30px;font-family: 'HelveticaNeueLTStd45Light';}
+.snp-about .about-hold span {font-family: 'HelveticaNeueLTCom75Bold'; text-align:right;}
+.snp-about .about-text p {font-size: 11pt; font-family: 'HelveticaNeueLTStd65Medium'; padding: 10px 50px 10px 30px;}
+
+.snp-about .about-text .text-bold { font-size: 12pt; font-family: 'HelveticaNeueLTCom75Bold';}
