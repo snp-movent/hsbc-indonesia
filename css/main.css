@@ -1,0 +1,17 @@
+/* -------------------MAIN CSS STYLE------------------------------- 
+Project Name        : HSBC iGo
+Clent Company       : Movent
+Developer           : Scripts and Pixels
+Developer URL       : http://scriptsandpixels.com
+FrontEnd            : John Turingan
+------------------------------------------------------------------ */
+
+html,body {-webkit-font-smoothing:antialiased!important; overflow: hidden;}
+body { margin: 0;padding: 0; font-size:14pt; font-family: Arial, Helvetica, sans-serif;color: #333 ;line-height:normal; min-width: 320px;overflow-x: hidden;background: #fff9f0 }
+a { text-decoration: none;outline-width:0!important; color: inherit!important;cursor: pointer !important;-moz-transition:0.5s;-webkit-transition:0.5s;transition: 0.5s}
+div { -moz-transition: 0.3s;-webkit-transition: 0.3s;-ms-transition: 0.3s;transition: 0.3s;}
+input[type=text]:focus { -moz-box-shadow: none!important;-webkit-box-shadow: none!important;-ms-box-shadow: none!important;box-shadow: none!important;-moz-border-radius: 0;-webkit-border-radius: 0;-ms-border-radius: 0;-o-border-radius: 0;border-radius: 0}
+img { border: 0;padding: 0; -moz-box-shadow: 0;-webkit-box-shadow: 0;-ms-box-shadow: 0;box-shadow: 0}
+
+.wrapper{width: 100%; max-width: 600px; min-width: 280px; margin: 0 auto; background-color: #000;}
+.wrapper > div {width: 90%; margin: 0 auto;  background: red; }
