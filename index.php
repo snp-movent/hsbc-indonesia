@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+	<!DOCTYPE html>
 <html>
 <head>
 	<meta content="text/html; charset=utf-8" http-equiv="Content-Type">
@@ -10,7 +10,7 @@
 
 	<link rel="stylesheet" href="css/bootstrap.css">
 	<link rel="stylesheet" href="css/fontawesome/css/font-awesome.min.css">
-	<link rel="stylesheet" href="css/font/font.css">
+	<link rel="stylesheet" href="css/font/fonts.css">
 	<link rel="stylesheet" href="css/main.css">
 	<link rel="stylesheet" href="css/pages.css">
 
