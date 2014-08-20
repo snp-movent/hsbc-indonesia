@@ -6,7 +6,7 @@ Developer           : Scripts and Pixels
 Developer URL       : http://scriptsandpixels.com
 FrontEnd            : John Turingan
 ------------------------------------------------------------------ */
-
+html {zoom: 1;-moz-transform: scale(1);-webkit-transform: scale(1);-ms-transform: scale(1);-o-transform: scale(1);transform: scale(1);}
 html,body {-webkit-font-smoothing:antialiased!important; overflow: hidden; }
 body { margin: 0;padding: 0; font-size:14pt; font-family: Arial, Helvetica, sans-serif;color: #333 ;line-height:normal; min-width: 320px;overflow-x: hidden;background: #fff }
 a { text-decoration: none;outline-width:0!important; color: inherit!important;cursor: pointer !important;-moz-transition:0.5s;-webkit-transition:0.5s;transition: 0.5s}
