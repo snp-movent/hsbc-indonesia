@@ -1,5 +1,4 @@
-.snp-faq {color: #111010;}
-.snp-faq .section-content {padding: 0 15px;}
+.snp-faq {color: #2b2a2a;}
 .snp-faq .section-title h3 {background: #2e302e; padding: 15px; color: #e8e7e7; margin-top: 0; font-family: 'HelveticaNeueLTCom75Bold';font-weight: normal;}
 .snp-faq .section-content .faq-question {padding: 5px 0 20px; border-bottom: 1px solid rgba(37,37,37, 0.4);}
 .snp-faq .section-content .faq-question:last-child {border-bottom: none;}
@@ -11,6 +10,6 @@
 
 .snp-faq .section-content .faq-question > div {height:0;transition: 0.5s;overflow: hidden; }
 .snp-faq .section-content .faq-question > div.opened {height: auto;}
-.snp-faq .section-content .faq-question p {font-size: 13pt;display: block;}
+.snp-faq .section-content .faq-question p {font-size: 12pt;line-height: 25px; display: block; font-family: 'HelveticaNeueLTStd65Medium'; font-weight: 400}
 .snp-faq .section-content .faq-question ul {margin-left: 0;}
 .snp-faq .section-content .faq-question ul li {margin-bottom: 15px; font-size: 13pt; list-style-position: inside;}

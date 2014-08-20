@@ -1,5 +1,5 @@
 .snp-benefits  {color: #2e302e; }
-.snp-benefits .benefits-content li,p {font-size: 12pt; font-family: 'HelveticaNeueLTStd65Medium';}
+.snp-benefits .benefits-content li, .snp-benefits .benefits-content li p {font-size: 12pt; font-family: 'HelveticaNeueLTStd65Medium';}
 .snp-benefits .benefits-hold h3 {background: #2e302e; padding: 15px; color: #e8e7e7; margin-top: 0; font-size:20pt;font-weight: normal;padding-left: 15px;font-family: 'HelveticaNeueLTStd45Light';line-height: normal;}
 .snp-benefits .benefits-hold strong {font-family: 'HelveticaNeueLTCom75Bold'; text-align:right;}
 .snp-benefits .benefits-list li { font-size:12pt;font-family: 'HelveticaNeueLTCom75Bold'; padding: 0 30px 10px 0;}

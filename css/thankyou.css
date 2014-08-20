@@ -4,7 +4,7 @@ body.typage .content {background: #fff!important}
 .snp-thankyou {padding: 20px}
 .snp-thankyou .thankyou-hold h4 {font-size: 16pt;font-family: 'HelveticaNeueLTStd65Medium'; margin-top: 0;line-height: 1.2em;}
 .snp-thankyou .thankyou-content h4,p	{ font-size: 13pt; }
-.snp-thankyou .thankyou-content  span {background-color: #ef2c2e; color: #fff; size: 12px; border: 1px solid; border-radius: 100%; padding: 1px 4px;}
+.snp-thankyou .thankyou-content  span {	background-color: #ef2c2e;color: #fff; font-size: 10px;border: 1px solid;border-radius: 50%;/* padding: 1px 4px; */height: 15px;width: 15px;text-align: center;line-height: 15px; float: left; margin-top: 3px}
 .snp-thankyou .thankyou-content  a { font-size: 12pt; text-decoration: none;}
 .snp-thankyou .thankyou-content p { display: inline;padding: 0 2px;}
 

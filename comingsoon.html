@@ -1,4 +1,4 @@
-	<!DOCTYPE html>
+<!DOCTYPE html>
 <html>
 <head>
 	<meta content="text/html; charset=utf-8" http-equiv="Content-Type">
@@ -21,7 +21,8 @@
 </head>
 <body>
 	<div class="wrapper">
-		<header class="snp-header">
+
+		<header class="snp-header homepage">
 			<div class="logo-hold">
 				<div class="socialmedia-hold">
 					<span>
@@ -43,16 +44,26 @@
 					<li><a href="#"><span>Hubungi</span> Kami</a></li>
 				</ul>
 			</nav>
-			<div class="section-title">
-		        <h3>FAQ</h3>
-		    </div>
+
+			<h3 class="overlay-title">Saat ini periode promosi sedang berhenti. Silakan coba datang lagi lain waktu</h3>
+			
 		</header>
+
 		<section class="content">
-			<?php 
-				$page = (isset($_GET['page'])) ? $_GET['page'] : "home";
-				include_once($page . '.php') 
-			?>
+			<div class="snp-comingsoon">
+			    <div class="section-title">
+			        <p><strong>Nikmati suku bunga 7,5% dan <em>cash back</em> hingga Rp300.000</strong></p>
+			        <p>Dengan penempatkan deposito Rp50 juta selama 6 bulan sekarang juga.</p>
+			    </div>
+			    <div class="section-content">
+			        <div class="pic-hold">
+			            <img src="css/images/pages/barcomingsoon.jpg" alt="">
+			            <img src="css/images/pages/timecomingsoon.jpg" alt="">
+			        </div>
+			    </div>
+			</div>
 		</section>
+
 		<footer class="snp-footer">
 			<p>&copy; Copyright HSBC Bank Indonesia <?php echo date('Y') ?> . ALL RIGHTS RESERVED</p>
 			<p>
