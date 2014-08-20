@@ -1,7 +1,5 @@
 <div class="snp-benefits">
-	<div class="benefits-hold">
-		<h3><strong>Manfaat Nasabah</strong><br>HSBC Advancer</h3>
-	</div>
+	
 	<div class="benefits-content">
 		<div class="benefits-text">
 			<p>
@@ -42,7 +40,7 @@
 			      <p>Nikmati berbagai penawaran melalui program Home&amp;Away di lebih dari 150 negara dengan kartu kredit HSBC Visa Platinum.</p>
 			</ol>
 
-			<p><strong>Untuk informasi lebih lanjut, kunjungi www.hsbcadvance.co.id</strong></p>
+			<p class="benefits-bottomtxt"><strong>Untuk informasi lebih lanjut, kunjungi www.hsbcadvance.co.id</strong></p>
 		</div>
 	</div>
 </div>

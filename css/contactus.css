@@ -1,5 +1,4 @@
 .snp-contact  {color: #2e302e; }
-.snp-contact  .contact-hold h3 {background: #2e302e; color: #e8e7e7; margin-top: 0; font-size:20pt;font-family: 'HelveticaNeueLTStd45Light';font-weight: normal;}
-.snp-contact  .contact-hold strong {font-family: 'HelveticaNeueLTStd65Medium'; text-align:right;}
-.snp-contact  .contact-content h3 {font-family: 'HelveticaNeueLTStd65Medium';font-weight: normal;}
-.snp-contact  .small-text {font-family: 'HelveticaNeueLTStd65Medium'; font-size: 11pt;}
+.snp-contact .contact-content h3 {font-family: 'HelveticaNeueLTStd65Medium';font-weight: normal;}
+.snp-contact .contact-content h3 span {padding-left: 20px;}
+.snp-contact .small-text {font-family: 'HelveticaNeueLTStd65Medium'; font-size: 11pt;}

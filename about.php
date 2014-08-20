@@ -1,7 +1,5 @@
 <div class="snp-about">
-	<div class="about-hold">
-		<h3><strong>Tentang</strong> Buddy Meter</h3>
-	</div>
+	
 	<div class="about-text">
 		<p class="text-bold">
 			Sesuai dengan tagline “Together We Advance”, Buddy Meter adalah salah satu wujud nyata dimana HSBC Advance memahami gaya hidup dan kebutuhan dari nasabahnya.
