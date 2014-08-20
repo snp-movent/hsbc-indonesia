@@ -31,6 +31,8 @@ img { border: 0;padding: 0; -moz-box-shadow: 0;-webkit-box-shadow: 0;-ms-box-sha
 .snp-navigation > span{padding: 12px 15px}
 
 header.snp-header {background-color: #333}
+header.snp-header.homepage {min-height: 400px!important;
+	background: #333 url('images/homebanner.jpg') center top no-repeat;background-size: cover}
 header .section-content {padding: 0 15px;}
 header .section-title h3 {background: #2e302e; padding: 15px; color: #e8e7e7; margin-top: 0; font-family: 'HelveticaNeueLTCom75Bold';font-weight: normal;}
 
@@ -39,7 +41,84 @@ header .section-title h3 {background: #2e302e; padding: 15px; color: #e8e7e7; ma
 .socialmedia-hold > span {float: right; margin: 45px 20px 0 0;}
 .socialmedia-hold > span > a { font-weight: normal; font-size: 12pt; color: #555 !important; background-color: #fff; display: inline-block; border-radius: 50%; width: 25px; height: 25px;line-height: 25px; text-align: center;}
 
+
+
+
 .snp-footer {border-top: 1px #e4e4e4 solid; padding: 20px 0; width: 90%; margin: 0 auto}
 .snp-footer p:first-child{font-size: 7pt}
 .snp-footer p {color: #909090; line-height: 10pt; font-size: 9pt; font-weight: normal; padding: 0 10px}
+
+
+/*HOMEPAGE*/
+.hpageBtn { display: block;font-family: 'HelveticaNeueLTStd65Medium';margin: 120px auto 10px; height: 50px;color: #fff!important; line-height: 50px; width: 280px;text-align: center;background: #ee2a2e;-moz-border-radius: 50px;-webkit-border-radius: 50px;border-radius: 50px;}
+.hpageBtn2 { display: block;font-family: 'HelveticaNeueLTStd65Medium';margin: 0 auto 10px; height: 50px;color: #fff!important; line-height: 50px; width: 280px;text-align: center;background: #ee2a2e;-moz-border-radius: 50px;-webkit-border-radius: 50px;border-radius: 50px;}
+.hpageBtn:hover,.hpageBtn2:hover { text-decoration: none;background: #cc0000}
+
+.hmpagetop {padding-left: 10px;border-left: 3px #ff001a solid;margin:30px 0;}
+.hmpagetop h1 {font-size: 30px;line-height: 30px;margin-bottom: 30px}
+.hmpagetop p {font-size: 20px;line-height: 25px;color: #464646}
+
+.thermobox {padding:20px; -moz-box-shadow: #ccc 0 0 2px inset;-webkit-box-shadow: #ccc 0 0 2px inset;box-shadow: #ccc 0 0 2px inset;}
+.thermobox p { font-size: 20px; line-height: 25px; text-align: center;}
+.thermobox p strong {font-family: 'HelveticaNeueLTStd65Medium'; }
+.thermobox h1 { color: #ee2e2e;font-size: 45px;font-family: 'HelveticaNeueLTCom75Bold';text-align: center;display: block;height: 100px;line-height:100px;overflow: hidden;}
+
+.thermo { border-top: 1px #ccc solid;border-bottom: 1px #ccc solid; width: 95%;margin:20px auto; padding: 30px 0}
+.thermo > div {max-width: 260px; margin:0 auto; position: relative;}
+.level { width: 40px; height: 340px;overflow: hidden;position:relative;margin:0 0 0 100px; -moz-border-radius: 40px;-webkit-border-radius: 40px;border-radius: 40px;-moz-box-shadow: #555 0 0 5px inset;-webkit-box-shadow: #555 0 0 5px inset;box-shadow: #555 0 0 5px inset;}
+.level span {display: block;text-align: center; position: absolute;padding-top: 35px;color: #fff; top:0; background: url('images/levelbg.png') left top;width: 40px;height: 100%}
+
+
+.levelbox { position: absolute; width: 214px; height: 100%; left: 50%;margin-left:-107px; background: url('images/levelboxbg.png') no-repeat;z-index: 10}
+.levelbox p { display: block;;width: 100%; height: 30px;position: absolute; line-height: 30px; background: url('images/levelpbg.png') center top no-repeat}
+.levelbox p span { display: block; float: left; }
+.levelbox p span:first-child { width: 64px;text-align: right; margin-right: 78px}
+.levelbox p span:last-child {width: 70px;color: #ee2a2e;font-size: 22px;font-weight: bold;text-align: left;}
+
+.lvlabel { width:90%;display: block;;height: 30px;line-height: 30px; margin: 10px auto; border-bottom: 1px #efefef solid }
+.lvlabel span { display: block;;float: left; width: 50%;;text-align: center;font-weight: bold; font-family: 'HelveticaNeueLTStd57Condensed'; font-size: 11px}
+
+.lvltop { top: -14px}
+.lvl2nd {top: 52px}
+.lvl3rd {top: 118px}
+.lvl4th {top: 184px}
+.lvl5th {top: 247px}
+.lvl6th {top: 310px}
+
+.bagaima { font-size: 18px!important;text-align: left;width: 100%;margin:0 auto;}
+.bagaima a {color: #cc0000!important}
+.bagaima a i {margin-right: 10px}
+
+
+.calbox {padding:20px;text-align:center;margin-top: 10px; -moz-box-shadow: #ccc 0 0 2px inset;-webkit-box-shadow: #ccc 0 0 2px inset;box-shadow: #ccc 0 0 2px inset;}
+.calbox h1 { font-size: 20px; line-height: 25px; text-align: center;}
+.calbox p {display: inline-block; font-size: 35px;max-width: 60px;min-width:; width:58px;height: 68px;background: url('images/calbg.jpg') center top; color: #fff; font-family: 'HelveticaNeueLTCom75Bold'; line-height: 65px;text-align: center;}
+.calbox p small {display: block;height: 15px;margin-top: -45px;font-size: 12px;font-family: 'HelveticaNeueLTStd45Light';}
+
+.calbox .hpageBtn { margin: 10px auto 20px; width:250px }
+.calbox .hpageBtn2 { margin: 20px auto 10px; width:250px }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
