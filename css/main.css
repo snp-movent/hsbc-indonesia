@@ -15,5 +15,20 @@ input[type=text]:focus { -moz-box-shadow: none!important;-webkit-box-shadow: non
 img { border: 0;padding: 0; -moz-box-shadow: 0;-webkit-box-shadow: 0;-ms-box-shadow: 0;box-shadow: 0}
 
 .wrapper{width: 100%; max-width: 600px; min-width: 280px; margin: 0 auto; }
-
+.wrapper > .content {width: 90%; margin: 0 auto}
+.snp-navigation {background: #ef2c2e; position: relative; color: #fff; font-family: 'HelveticaNeueLTStd65Medium'}
+.snp-navigation > a.expanded{background: #fff}
+.snp-navigation > a.expanded > i {color: #ef2c2e}
+.snp-navigation > a {position: absolute; right: 0px; display: block; padding: 10px; background:#a72223; text-decoration: none;}
+.snp-navigation > a > i {font-size: 19pt; margin-left: 5px; color: #fff}
+.snp-navigation > ul {list-style:none; position: absolute; background: #ef2c2e; width: 100%; margin: 0}
+.snp-navigation > ul > li:first-child{border-top: 1px #d80f11 solid;}
+.snp-navigation > ul > li {border-bottom: 1px #d80f11 solid;}
+.snp-navigation > span,
+.snp-navigation > ul > li > a{display: block; font-size: 11pt; text-decoration: none; color: #fff; padding: 15px }
+.snp-navigation > ul > li > a > span {font-weight: normal; font-size: 14pt}
+.snp-navigation > span{padding: 12px 15px}
+.snp-footer {border-top: 1px #e4e4e4 solid; padding: 20px 0; width: 90%; margin: 0 auto}
+.snp-footer p:first-child{font-size: 7pt}
+.snp-footer p {color: #707070; line-height: 20px; font-size: 9pt; font-weight: normal; padding: 0 10px}
 
