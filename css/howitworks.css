@@ -1,0 +1,13 @@
+.snp-howitworks {color: #111010;}
+.snp-howitworks .section-title {background: #2e302e;}
+.snp-howitworks .section-title h3 {font-family: 'HelveticaNeueLTCom75Bold';font-weight: normal; color: #e8e7e7; line-height: 27px; width: 81%; padding: 15px; margin-top: 0;}
+.snp-howitworks .section-content {padding: 5px 15px; font-size: 16px;}
+
+.snp-howitworks .section-title span {font-family: 'HelveticaNeueLTStd45Light'; font-weight: normal;}
+
+.snp-howitworks .section-content img {border: 1px solid rgba(37,37,37, 0.1); margin: 0 auto 30px; display: block;}
+.snp-howitworks .section-content p {margin-bottom: 15px;}
+.snp-howitworks .section-content p:nth-child(2) {font-size: 19px; margin-bottom: 20px;}
+
+.snp-howitworks .emp-content {background-color: #f6f6f6;font-size: 19px; border: 1px solid rgba(255,11,36,0.3); padding: 19px 25px;}
+.snp-howitworks .emp-content p:last-child {margin: 0;};
