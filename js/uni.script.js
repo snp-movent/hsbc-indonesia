@@ -30,8 +30,4 @@ $( document ).ready(function() {
 
 	snp_app.navigation($('#snp-navbtn'), $('#snp-navblk'));
 	snp_app.faqtoggle($('.faq-question a'));
-
-	
-
-
 });
