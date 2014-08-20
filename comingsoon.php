@@ -8,8 +8,8 @@
             <p>Dengan penempatkan deposito Rp50 juta selama 6 bulan sekarang juga.</p>
         </div>
         <div class="pic-hold">
-            <img src="/images/pages/barcomingsoon.jpg" alt="">
-            <img src="/images/pages/remainingtime.jpg" alt="">
+            <img src="/css/images/pages/barcomingsoon.jpg" alt="">
+            <img src="/css/images/pages/remainingtime.jpg" alt="">
         </div>
     </div>
 </div>
