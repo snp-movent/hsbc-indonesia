@@ -1,6 +1,6 @@
 <div class="snp-contact">
 	<div class="contact-hold">
-		<h3>Hubungi Kami</h3>
+		<h3><strong>Hubungi</strong> Kami</h3>
 	</div>
 	<div class="contact-content">
 		<h4>Untuk pertanyaan lebih lanjut, mohon hubungi kami di:</h4>

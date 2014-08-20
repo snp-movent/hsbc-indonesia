@@ -1,6 +1,6 @@
 .snp-about  {color: #2e302e; }
-.snp-about .about-hold h3 {background: #2e302e; padding: 15px; color: #e8e7e7; margin-top: 0; font-size:26.04px;font-weight: normal;padding-left: 15px;font-family: 'HelveticaNeueLTStd45Light';}
-.snp-about .about-hold span {font-family: 'HelveticaNeueLTCom75Bold'; text-align:right;}
-.snp-about .about-text p {font-size: 15.63px; font-family: 'HelveticaNeueLTStd65Medium'; padding: 10px 40px 10px 15px;}
+.snp-about .about-hold h3 {background: #2e302e; color: #e8e7e7; margin-top: 0; font-size:20pt;font-family: 'HelveticaNeueLTStd45Light';font-weight: normal;}
+.snp-about .about-hold  strong {font-family: 'HelveticaNeueLTStd65Medium'; text-align:right;}
+.snp-about .about-text p {font-size: 12pt; font-family: 'HelveticaNeueLTStd65Medium';}
 
-.snp-about .about-text .text-bold { font-size: 18.75px; font-family: 'HelveticaNeueLTCom75Bold';}
+.snp-about .about-text .text-bold { font-size: 14pt; font-family: 'HelveticaNeueLTStd65Medium';}
