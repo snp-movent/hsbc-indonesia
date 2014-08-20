@@ -9,7 +9,7 @@
         </div>
         <div class="pic-hold">
             <img src="/css/images/pages/barcomingsoon.jpg" alt="">
-            <img src="/css/images/pages/remainingtime.jpg" alt="">
+            <img src="/css/images/pages/timecomingsoon.jpg" alt="">
         </div>
     </div>
 </div>
