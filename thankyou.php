@@ -1,22 +1,73 @@
-<div class="snp-thankyou">
-	<div class="thankyou-hold">
-        <h4>Anda telah terdaftar dalam promosi HSBC Advance.</h4>
-    </div>
-    <div class="thankyou-content">
-    	<h4 class="thankyou-text">Selain cash back dan suku bunga menarik, HSBC Advance menawarkan berbagai macam keistimewaan untuk nasabahnya:</h4>
-    	<div class="thankyou-text">
-	     	<a href="#"><span class="fa fa-angle-right"></span></a><p>Akses Internet Banking dan Mobile Banking 24/7 untuk kemudahan mengelola rekening Anda dan melakukan transaksi.</p>
-  			
-  		</div>
-  		<div class="thankyou-text">
-  			<a href="#"><span class="fa fa-angle-right"></span></a><p>Monitor pengelolaan keuangan dengan beragam notifikasi perbankan, langsung ke ponsel Anda.</p>
-  		</div>	
-  		<div class="thankyou-text">
-  			<a href="#"><span class="fa fa-angle-right"></span></a><p>Beragam pilihan solusi keuangan terpadu, untuk berbagai kebutuhan <i>lifestyle</i>, membeli rumah, mengembangkan dan melindungi kekayaan Anda.</p>
-  		</div>	
-  		<div class="thankyou-text">
-  			<a href="#"><span class="fa fa-angle-right"></span></a><p>Tarif dan harga bersaing untuk pembelian solusi Wealth Management melalui Personal Internet Banking.</p>
-  		</div>
-  		<p class="thankyou-text">Ajak keluarga dan teman-teman Anda untuk bergabung bersama HSBC Advance agar mereka dapat juga menikmati berbagai keistimewaan tersebut di atas.</p>
-  	</div>
-</div>
+
+  <!DOCTYPE html>
+<html>
+<head>
+  <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta name="HandheldFriendly" content="True" />
+  <meta name=apple-mobile-web-app-capable content=yes>
+  <meta name=apple-mobile-web-app-status-bar-style content=black>
+  <meta name="viewport" content="initial-scale=1, maximum-scale=1"/>
+
+  <link rel="stylesheet" href="css/bootstrap.css">
+  <link rel="stylesheet" href="css/fontawesome/css/font-awesome.min.css">
+  <link rel="stylesheet" href="css/font/fonts.css">
+  <link rel="stylesheet" href="css/main.css">
+  <link rel="stylesheet" href="css/pages.css">
+
+  
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+  <script src="js/uni.script.js"></script>
+  <title>HSBC iGo</title>
+</head>
+<body class="typage">
+  <div class="wrapper">
+    <header class="snp-header">
+      <div class="logo-hold">
+        <div class="socialmedia-hold">
+          <span>
+            <a href="#"><i class="fa fa-facebook"></i></a>
+            <a href="#"><i class="fa fa-twitter"></i></a>
+            <a href="#"><i class="fa fa-linkedin"></i></a>
+            <a href="#"><i class="fa fa-pinterest"></i></a>
+          </span>
+        </div>
+      </div>
+            
+    </header>
+    <section class="content">
+        <div class="snp-thankyou">
+        	   <div class="thankyou-hold">
+                <h4>Anda telah terdaftar dalam promosi HSBC Advance.</h4>
+            </div>
+            <div class="thankyou-content">
+            	<h4 class="thankyou-text">Selain cash back dan suku bunga menarik, HSBC Advance menawarkan berbagai macam keistimewaan untuk nasabahnya:</h4>
+            	<div class="thankyou-text">
+        	     	<a href="#"><span class="fa fa-angle-right"></span></a><p>Akses Internet Banking dan Mobile Banking 24/7 untuk kemudahan mengelola rekening Anda dan melakukan transaksi.</p>
+          			
+          		</div>
+          		<div class="thankyou-text">
+          			<a href="#"><span class="fa fa-angle-right"></span></a><p>Monitor pengelolaan keuangan dengan beragam notifikasi perbankan, langsung ke ponsel Anda.</p>
+          		</div>	
+          		<div class="thankyou-text">
+          			<a href="#"><span class="fa fa-angle-right"></span></a><p>Beragam pilihan solusi keuangan terpadu, untuk berbagai kebutuhan <i>lifestyle</i>, membeli rumah, mengembangkan dan melindungi kekayaan Anda.</p>
+          		</div>	
+          		<div class="thankyou-text">
+          			<a href="#"><span class="fa fa-angle-right"></span></a><p>Tarif dan harga bersaing untuk pembelian solusi Wealth Management melalui Personal Internet Banking.</p>
+          		</div>
+          		<p class="thankyou-text">Ajak keluarga dan teman-teman Anda untuk bergabung bersama HSBC Advance agar mereka dapat juga menikmati berbagai keistimewaan tersebut di atas.</p>
+          	</div>
+        </div>
+      </section>
+
+    <footer class="snp-footer">
+        <h3 class="footer-text">Halaman ini sudah di <i>share</i> <strong>130</strong> kali.</h3>
+        <a href="" class="typageBtn">Share on <span class="fa fa-facebook"></span></a>
+        <a href="" class="typageBtn2 ">Share on <span class="fa fa-twitter"></span></a>
+        <a href="" class="typageBtn3">Share di <span class="fa fa-linkedin"></span></a>
+        <a href="" class="typageBtn4 ">Share di <span class="fa fa-pinterest"></span></a>
+    </footer>
+  </div>
+</body>
+</html>
+

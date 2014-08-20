@@ -6,3 +6,12 @@
 @import url('comingsoon.css');
 @import url('thankyou.css');
 @import url('home.css');
+
+
+@media screen and (min-width: 0) and (max-width:567px) {
+	.logo-hold{background-size: auto 40px;}
+    body.typage header.snp-header {min-height: 240px!important}
+    body.typage .snp-thankyou {margin-top: 20px;}
+    body.typage .footer-text {font-size: 13pt;margin: 0;padding: 0;}
+    
+}

@@ -1,7 +1,21 @@
-.snp-thankyou .thankyou-hold h4 {font-size: 14pt;font-family: 'HelveticaNeueLTStd65Medium'; margin-top: 0;line-height: 1.2em;}
-.snp-thankyou .thankyou-content h4,p	{ font-size: 11pt; }
+body.typage .wrapper {background:#0f0d18 url('images/thankyoubg.jpg') center top no-repeat; background-size: 100% auto}
+body.typage header.snp-header {background-color: transparent!important;min-height: 450px!important}
+body.typage .content {background: #fff!important}
+.snp-thankyou {padding: 20px}
+.snp-thankyou .thankyou-hold h4 {font-size: 16pt;font-family: 'HelveticaNeueLTStd65Medium'; margin-top: 0;line-height: 1.2em;}
+.snp-thankyou .thankyou-content h4,p	{ font-size: 13pt; }
 .snp-thankyou .thankyou-content  span {background-color: #ef2c2e; color: #fff; size: 12px; border: 1px solid; border-radius: 100%; padding: 1px 4px;}
-.snp-thankyou .thankyou-content  a { font-size: 10pt; text-decoration: none;}
+.snp-thankyou .thankyou-content  a { font-size: 12pt; text-decoration: none;}
 .snp-thankyou .thankyou-content p { display: inline;padding: 0 2px;}
 
 .snp-thankyou .thankyou-content .thankyou-text { font-family: 'HelveticaNeueLTStd65Medium'; font-weight: normal;padding: 10px 0;}
+
+/*footer*/
+.footer-text {text-align: center;font-size: 16pt;font-family: 'HelveticaNeueLTStd45Light';color: #fff;font-weight: normal}
+.typageBtn{display: block;font-family: 'HelveticaNeueLTStd65Medium';margin: 20px auto 10px; height: 50px;color: #fff!important; line-height: 50px; width: 230px;text-align: center;background: #3c5a98;-moz-border-radius: 50px;-webkit-border-radius: 50px;border-radius: 50px;text-decoration: none!important; font-size: 25px;}
+.typageBtn2{display: block;font-family: 'HelveticaNeueLTStd65Medium';margin: 20px auto 10px; height: 50px;color: #fff!important; line-height: 50px; width: 230px;text-align: center;background: #009fff;-moz-border-radius: 50px;-webkit-border-radius: 50px;border-radius: 50px;text-decoration: none!important; font-size: 25px;}
+.typageBtn3{display: block;font-family: 'HelveticaNeueLTStd65Medium';margin: 20px auto 10px; height: 50px;color: #fff!important; line-height: 50px; width: 230px;text-align: center;background: #0675ae;-moz-border-radius: 50px;-webkit-border-radius: 50px;border-radius: 50px;text-decoration: none!important; font-size: 25px;}
+.typageBtn4{display: block;font-family: 'HelveticaNeueLTStd65Medium';margin: 20px auto 10px; height: 50px;color: #fff!important; line-height: 50px; width: 230px;text-align: center;background: #db2d36;-moz-border-radius: 50px;-webkit-border-radius: 50px;border-radius: 50px;text-decoration: none!important; font-size: 25px;}
+
+.snp-footer span {font-size: 30px;margin-left: 10px;}
+.snp-footer a {font-family: 'HelveticaNeueLTStd45Light';}
