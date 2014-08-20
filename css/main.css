@@ -7,8 +7,8 @@ Developer URL       : http://scriptsandpixels.com
 FrontEnd            : John Turingan
 ------------------------------------------------------------------ */
 
-html,body {-webkit-font-smoothing:antialiased!important; overflow: hidden;}
-body { margin: 0;padding: 0; font-size:14pt; font-family: Arial, Helvetica, sans-serif;color: #333 ;line-height:normal; min-width: 320px;overflow-x: hidden;background: #fff9f0 }
+html,body {-webkit-font-smoothing:antialiased!important; overflow: hidden; }
+body { margin: 0;padding: 0; font-size:14pt; font-family: Arial, Helvetica, sans-serif;color: #333 ;line-height:normal; min-width: 320px;overflow-x: hidden;background: #fff }
 a { text-decoration: none;outline-width:0!important; color: inherit!important;cursor: pointer !important;-moz-transition:0.5s;-webkit-transition:0.5s;transition: 0.5s}
 div { -moz-transition: 0.3s;-webkit-transition: 0.3s;-ms-transition: 0.3s;transition: 0.3s;}
 input[type=text]:focus { -moz-box-shadow: none!important;-webkit-box-shadow: none!important;-ms-box-shadow: none!important;box-shadow: none!important;-moz-border-radius: 0;-webkit-border-radius: 0;-ms-border-radius: 0;-o-border-radius: 0;border-radius: 0}
@@ -16,18 +16,29 @@ img { border: 0;padding: 0; -moz-box-shadow: 0;-webkit-box-shadow: 0;-ms-box-sha
 
 .wrapper{width: 100%; max-width: 600px; min-width: 280px; margin: 0 auto; }
 .wrapper > .content {width: 90%; margin: 0 auto}
-.snp-navigation {background: #ef2c2e; position: relative; color: #fff; font-family: 'HelveticaNeueLTStd65Medium'}
+.snp-navigation {background: url('images/navbg.png') left top; height: 46px; position: relative; color: #fff; font-family: 'HelveticaNeueLTStd65Medium'}
 .snp-navigation > a.expanded{background: #fff}
 .snp-navigation > a.expanded > i {color: #ef2c2e}
-.snp-navigation > a {position: absolute; right: 0px; display: block; padding: 10px; background:#a72223; text-decoration: none;}
+.snp-navigation > a {transition:none; position: absolute; right: 0px; display: block; padding: 10px; background:#a72223; text-decoration: none; }
 .snp-navigation > a > i {font-size: 19pt; margin-left: 5px; color: #fff}
-.snp-navigation > ul {list-style:none; position: absolute; background: #ef2c2e; width: 100%; margin: 0}
+.snp-navigation > ul.blk-hidden{display: none;}
+.snp-navigation > ul {display:block; list-style:none; position: absolute; background: #ef2c2e; width: 100%; margin: 0}
 .snp-navigation > ul > li:first-child{border-top: 1px #d80f11 solid;}
 .snp-navigation > ul > li {border-bottom: 1px #d80f11 solid;}
 .snp-navigation > span,
 .snp-navigation > ul > li > a{display: block; font-size: 11pt; text-decoration: none; color: #fff; padding: 15px }
-.snp-navigation > ul > li > a > span {font-weight: normal; font-size: 14pt}
+.snp-navigation > ul > li > a > span {font-weight: 300; font-size: 14pt}
 .snp-navigation > span{padding: 12px 15px}
+
+header.snp-header {background-color: #333}
+header .section-content {padding: 0 15px;}
+header .section-title h3 {background: #2e302e; padding: 15px; color: #e8e7e7; margin-top: 0; font-family: 'HelveticaNeueLTCom75Bold';font-weight: normal;}
+
+.logo-hold {height: 100px; width: 100%; background: url('images/logo.png') no-repeat 25px center; background-size: auto 55px; }
+
+.socialmedia-hold > span {float: right; margin: 45px 20px 0 0;}
+.socialmedia-hold > span > a { font-weight: normal; font-size: 12pt; color: #555 !important; background-color: #fff; display: inline-block; border-radius: 50%; width: 25px; height: 25px;line-height: 25px; text-align: center;}
+
 .snp-footer {border-top: 1px #e4e4e4 solid; padding: 20px 0; width: 90%; margin: 0 auto}
 .snp-footer p:first-child{font-size: 7pt}
 .snp-footer p {color: #707070; line-height: 20px; font-size: 9pt; font-weight: normal; padding: 0 10px}

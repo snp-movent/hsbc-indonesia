@@ -14,15 +14,28 @@
 	<link rel="stylesheet" href="css/main.css">
 	<link rel="stylesheet" href="css/pages.css">
 
+	
+	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+	<script src="js/uni.script.js"></script>
 	<title>HSBC iGo</title>
 </head>
 <body>
 	<div class="wrapper">
-		<header>
+		<header class="snp-header">
+			<div class="logo-hold">
+				<div class="socialmedia-hold">
+					<span>
+						<a href="#"><i class="fa fa-facebook"></i></a>
+						<a href="#"><i class="fa fa-twitter"></i></a>
+						<a href="#"><i class="fa fa-linkedin"></i></a>
+						<a href="#"><i class="fa fa-pinterest"></i></a>
+					</span>
+				</div>
+			</div>
 			<nav class="snp-navigation">
-				<a href="#" class=""><i class="fa fa-bars"></i>&nbsp;</a>
+				<a href="#" id="snp-navbtn"><i class="fa fa-bars"></i>&nbsp;</a>
 				<span>Menu</span>
-				<ul>
+				<ul id="snp-navblk" class="blk-hidden">
 					<li><a href="#"><span>Tentang</span> Buddy Meter</a></li>
 					<li><a href="#"><span>Cara Kerja</span> Buddy Meter</a></li>
 					<li><a href="#"><span>Manfaat Nasabah</span> HSBC Advance</a></li>
@@ -30,6 +43,9 @@
 					<li><a href="#"><span>Hubungi</span> Kami</a></li>
 				</ul>
 			</nav>
+			<div class="section-title">
+		        <h3>FAQ</h3>
+		    </div>
 		</header>
 		<section class="content">
 			<?php 

@@ -1,7 +1,5 @@
 <div class="snp-faq">
-	<div class="section-title">
-        <h3>FAQ</h3>
-    </div>
+	
     <div class="section-content">
         <div class="faq-question">
             <h4>Kapan dan bagaimana cash back Rp300,000 akan saya terima?</h4>
