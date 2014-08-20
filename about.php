@@ -1,6 +1,6 @@
 <div class="snp-about">
 	<div class="about-hold">
-		<h3><span>Tentang </span>Buddy Meter</h3>
+		<h3><span>Tentang </span>weAdvance Meter</h3>
 	</div>
 	<div class="about-text">
 		<p class="text-bold">
